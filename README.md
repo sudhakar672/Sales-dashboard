@@ -2,8 +2,7 @@
 
 **Project by:** Sudhakar A  
 **Tool Used:** Microsoft Excel (Advanced Dashboard)  
-**Data Source:** Sales_Performance_Dashboard_INR.xlsx  
-**Fiscal Year:** FY 2024  
+**Data Source:** Sales_Performance_Dashboard_INR.xlsx   
 **Currency:** Indian Rupee (₹)
 
 ---
