@@ -11,7 +11,7 @@
 ## 📁 Project Structure
 
 ```
-Sales_Analytics_Dashboard_FY2024.xlsx
+Sales_Analytics_Dashboard.xlsx
 ├── Executive Dashboard      ← Start here (opens first)
 ├── Monthly Analysis
 ├── Regional Analysis
@@ -113,7 +113,7 @@ Sales_Analytics_Dashboard_FY2024.xlsx
 ## 🚀 How to Open
 
 1. Extract the ZIP file
-2. Open `Sales_Analytics_Dashboard_FY2024.xlsx` in Microsoft Excel
+2. Open `Sales_Analytics_Dashboard.xlsx` in Microsoft Excel
 3. Start from the **Executive Dashboard** sheet (first tab)
 4. Navigate through sheets using the tab bar at the bottom
 
@@ -128,4 +128,4 @@ Sales_Analytics_Dashboard_FY2024.xlsx
 
 ---
 
-*© 2024 Sudhakar A — Sales Analytics Project*
+*© Sudhakar A — Sales Analytics Project*
