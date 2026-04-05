@@ -1,4 +1,4 @@
-# 📊 Sales Performance Analytics Dashboard — FY 2024
+# 📊 Sales Performance Analytics Dashboard 
 
 **Project by:** Sudhakar A  
 **Tool Used:** Microsoft Excel (Advanced Dashboard)  
